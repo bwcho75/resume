@@ -1,3 +1,5 @@
+URL : http://bwcho75.github.io/resume/
+
 * bwcho75@gmail.com 
 * +82 10 4198 8862
 * Kyungki-do,Korea
@@ -165,4 +167,4 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * 2004 J2EE tuning,Capacity planning in J2eestudy community workshop 
 * 2004 Java virtual machine tuning in Java developer conference in Korea
 
-URL : http://bwcho75.github.io/resume/
+
