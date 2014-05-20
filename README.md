@@ -42,6 +42,8 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 ### Samsung Electronics (Chief Architect) - 2012 to Pres
 * Design and build all about Samsung Knox Global Scale Servers 
 (Enrollment, License validation, Log gathering, Web Portal, File provisioning, Application Wrapping) Service, APIs, Big Data analysis, Identity management system (SSO).
+* Initial design and manage http://www.samsungknox.com web site
+* Coordinate cloud based MDM (http://emm.samsungknox.com)  and Marketplace (http://marketplace.samsungknox.com) project
 * Set up team from end 2 end (set up process, technology stack, reference architecture)
 * Acquire Nokia Vancouver R&D Team and set up Samsung R&D in Vancouver
 
