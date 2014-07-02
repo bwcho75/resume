@@ -30,7 +30,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * Agile methodology and team building (process, structure) & management
 * Global scale & high availability distributed system design & implementation
 * Very strong in hands on Java server technology and friendly in script language (python , javascript)
-* Strong in middle ware server – Tomcat,RabbitMQ,Vert.x,Node.JS etc.
+* Strong in middleware server – Tomcat,RabbitMQ,Vert.x,Node.JS etc.
 * Strong experience in Cloud – Microsoft private cloud, Azure , Amazon Web Service
 * Experience in NoSQL & BigData – Hadoop, Riak, Mongo,Vertica, Redis, etc
 * Very Strong in Tooling for dev & test environment – JIRA,Load Runner,Test link,Jenkins etc
@@ -149,6 +149,8 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * 2001 Java swing programming in programming world
 
 # Speech
+* 2014 node.js overview in Microsoft developer conference 
+* 2014 Distributed high scale system design in NIC (Korea gov)
 * 2014 Architecture, Team Structure and agile with JIRA in java developer conference
 * 2014 Java performance in Samsung network division
 * 2013 Sever operation in Infraware
