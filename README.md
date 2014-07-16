@@ -32,7 +32,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * Very strong in hands on Java server technology and friendly in script language (python , javascript)
 * Strong in middleware server – Tomcat,RabbitMQ,Vert.x,Node.JS etc.
 * Strong experience in Cloud – Microsoft private cloud, Azure , Amazon Web Service
-* Experience in NoSQL & BigData – Hadoop, Riak, Mongo,Vertica, Redis, etc
+* Experience in NoSQL & BigData – Hadoop, Riak, Couchbase, Redis, Vertica etc
 * Very Strong in Tooling for dev & test environment – JIRA,Load Runner,Test link,Jenkins etc
 * Very Strong in Performance testing, tuning.
 * Good at operation like deployment automation, incident handling
@@ -74,7 +74,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 # Technology Detail
 * Management & Design / Methodology : Scrum agile methodology, Service Oriented Architecture (SOA), High Scale & High Availability System Design, Distributed System design, Cloud Computing, Big Data, Application Life cycle Management (ALM), Troubleshooting & incident handling, Performance Testing & Tuning, Test Management. 
 * Programming languages & frameworks : Java , Java Enterprise, Spring Framework, MyBatis,JUnit,C/C++,Python, JavaScript (angular.js, jquery, bootstrap)
-* Middleware platform : All java web application servers (weblogic,tomcat etc), JMS ,RabiitMQ,, NginX,HA Proxy,Django,node.js,Vert.x, HazelCast,Redis,Riak,MongoDB,Gluster FS,Varnish, Tuxedo, Apache, Oracle ESB, WebLogic Portal,CA Site Minder,simplSAML
+* Middleware platform : All java web application servers (weblogic,tomcat etc), JMS ,RabiitMQ, NginX,HA Proxy,Django,node.js,Vert.x, HazelCast,Redis,Riak,MongoDB,CouchBase,Gluster FS,Varnish, Tuxedo, Apache, Oracle ESB, WebLogic Portal,CA Site Minder,simplSAML
 * Data Base & Analytics : Hadoop,Hive,Pig,Sqoop,Pentaho Mondrian/ETL,HP Vertica,MySQL,Oracle
 * Infrastructure : Windows env, Linux env, Amazon Web Service, Microsoft Azure Cloud, Microsoft System Centers for Private Cloud.
 * Tools : Atlassian JIRA,Confluence,Mantis,Redmine,Git & GitHub,SubVersion , Jenkins, Ant/Maven, Test Link Nexus,Eclipse,vagrant,docker, HP Load Runner,nGrinder, Wire Shark,Fiddler, Jennifer (application performance monitoring),Visual VM
@@ -104,7 +104,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 
 # Reference
 * Slide share - http://www.slideshare.net/Byungwook
-* Blog (Korean) - http://bcho.tistory.com 800K page view, around 900 posting
+* Blog (Korean) - http://bcho.tistory.com 900K visitor, around 900 posting
 * Blog (English) - http://javamaster.wordpress.com
 * Git hub
 * Linked in
