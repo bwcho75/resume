@@ -51,10 +51,14 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * Drop box like personal storage and sync service. On Premise & public cloud support
 
 ### Microsoft (Enterprise presales architect) 
+Presales and hands on delivery with partners.
+
 * 2010 Provide proactive sales to COO level in customer
 * 2010 Delivery LG U+ SaaS cloud design, Samsung IaaS cloud service design consulting, Nate.com game cloud platform business strategy planning, LG U+ IP TV PoC. SKT VDI Client service PoC. 
 
 ### Oracle & BEA Consulting (Hands on delivery consultant)
+Presales and hands on delivery with partners.
+
 * 2009 PT Telkom Indonesia SDP architecture assessment
 * 2009 Korea Ginseng & Tabaco company SOA/EAI project 
 * 2009 KTF (Korea 2’nd biggest telco) next generation marketing system tuning & architecture enhancement
@@ -64,7 +68,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * 2007 Samsung fire insurance next generation system – Application design & guide and trouble shooting
 
 ### BEA Support Engineer (Technical Support Engineer) 2003 to 2007 
-* Handle around 100 customer issues per month for trouble shooting, performance tuning, incident handling and code & design guide for BEA Weblogic(Java) & Tuxeo (C) products
+* Handle around 100 customer issues per month for trouble shooting, performance tuning, incident handling and code & design guide for BEA Weblogic(Java) & Tuxeo (C) products with number of partners
 
 ### KOCN (Developer) 1998 to 2002
 * Develop contents management system and deploy the CMS to Asiana airline
