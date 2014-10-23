@@ -4,7 +4,7 @@ URL : http://bwcho75.github.io/resume/
 * +82 10 4198 8862
 * Kyungki-do,Korea
 
-Terry IT engineer who has been working on IT industry about 15 years (from 1998).
+Terry IT engineer who has been working on IT industry around 16 years (from 1998).
 He experienced a lot of role like developer ,delivery consultant ,business strategy consultant ,pre-sales engineer, project/program manager, architect from an Start up , such a big IT company like Microsoft ,Oracle ,BEA ,Samsung and big service company Naver.com Korea.
 He is also very famous in Developer communities. He wrote around 40 technical article and interviews in Korea/International magazine, had over than 20 times speeches in technical conference and has been member of # of developer communities as a leader including site master of 130K member of java community site.
 
@@ -42,7 +42,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 ### Samsung Electronics (Chief Architect) - 2012 to Pres
 * Design and build all about Samsung Knox Global Scale Servers 
 (Enrollment, License validation, Log gathering, Web Portal, File provisioning, Application Wrapping) Service, APIs, Big Data analysis, Identity management system (SSO).
-* Initial design and manage http://www.samsungknox.com web site
+* Initial design and manage delivery of http://www.samsungknox.com web site
 * Coordinate cloud based MDM (http://emm.samsungknox.com)  and Marketplace (http://marketplace.samsungknox.com) project
 * Set up team from end 2 end (set up process, technology stack, reference architecture)
 * Acquire Nokia Vancouver R&D Team and set up Samsung R&D in Vancouver
@@ -72,7 +72,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * Set up team and get a funding from venture capital with CEO
 
 # Technology Detail
-* Management & Design / Methodology : Scrum agile methodology, Service Oriented Architecture (SOA), High Scale & High Availability System Design, Distributed System design, Cloud Computing, Big Data, Application Life cycle Management (ALM), Troubleshooting & incident handling, Performance Testing & Tuning, Test Management. 
+* Management & Design / Methodology : Scrum agile methodology, Service Oriented Architecture & Micro Service Architecture (SOA/MSA), High Scale & High Availability System Design, Distributed System design, Cloud Computing, Big Data, Application Life cycle Management (ALM), Troubleshooting & incident handling, Performance Testing & Tuning, Test Management. 
 * Programming languages & frameworks : Java , Java Enterprise, Spring Framework, MyBatis,JUnit,C/C++,Python, JavaScript (angular.js, jquery, bootstrap)
 * Middleware platform : All java web application servers (weblogic,tomcat etc), JMS ,RabiitMQ, NginX,HA Proxy,Django,node.js,Vert.x, HazelCast,Redis,Riak,MongoDB,CouchBase,Gluster FS,Varnish, Tuxedo, Apache, Oracle ESB, WebLogic Portal,CA Site Minder,simplSAML
 * Data Base & Analytics : Hadoop,Hive,Pig,Sqoop,Pentaho Mondrian/ETL,HP Vertica,MySQL,Oracle
@@ -149,6 +149,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * 2001 Java swing programming in programming world
 
 # Speech
+* 2014 technical trend in Samsung Electronics internal server developer conference
 * 2014 node.js overview in Microsoft developer conference 
 * 2014 Distributed high scale system design in NIC (Korea gov)
 * 2014 Architecture, Team Structure and agile with JIRA in java developer conference
