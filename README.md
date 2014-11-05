@@ -44,6 +44,8 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 (Enrollment, License validation, Log gathering, Web Portal, File provisioning, Application Wrapping) Service, APIs, Big Data analysis, Identity management system (SSO).
 * Initial design and manage delivery of http://www.samsungknox.com web site
 * Coordinate cloud based MDM (http://emm.samsungknox.com)  and Marketplace (http://marketplace.samsungknox.com) project
+* Building Mobile device management service 
+* Designing IOT server platform
 * Set up team from end 2 end (set up process, technology stack, reference architecture)
 * Acquire Nokia Vancouver R&D Team and set up Samsung R&D in Vancouver
 
@@ -115,6 +117,7 @@ Presales and hands on delivery with partners.
 * Reference people – it can be provided based on request
 
 # Community Activities
+* 2014 to Pres Master of Samsung Server Side group
 * 2013 to Pres Master of Facebook Server Side Architect Group (http://www.facebook.com/group/serverside) 
 * 2010 Sun microsystems power blogger
 * 2004 to 2009 Site master of JEE community (http://www.j2eestudy.co.kr)
