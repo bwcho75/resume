@@ -4,8 +4,13 @@ URL : http://bwcho75.github.io/resume/
 * +82 10 4198 8862
 * Kyungki-do,Korea
 
-Terry IT engineer who has been working on IT industry around 16 years (from 1998).
+
+Terry is IT engineer who has been working on IT industry about 16 years.
 He experienced a lot of role like developer ,delivery consultant ,business strategy consultant ,pre-sales engineer, project/program manager, architect from an Start up , such a big IT company like Microsoft ,Oracle ,BEA ,Samsung and big service company Naver.com Korea.
+He has very wide view between business and technical engineering
+
+He designed number of production Samsung Mobile global level backend system over Amazon and Microsoft cloud.
+
 He is also very famous in Developer communities. He wrote around 40 technical article and interviews in Korea/International magazine, had over than 20 times speeches in technical conference and has been member of # of developer communities as a leader including site master of 130K member of java community site.
 
 # Personal
@@ -17,7 +22,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * Hobby : Photo, Auto camping, Snowboarding, Blogging etc.
 
 # Career Summary
-* 12.Oct ~ Pres. 	Samsung Electronics / chief architect of Samsung Knox Server
+* 12.Oct ~ Pres. 	Samsung Electronics / chief server architect of Samsung mobile devision B2B group
 * July.11 ~ July.12	Samsung Data System / program manager of personal Cloud Storage Service
 * April.10 ~ June.11	Microsoft / Cloud & enterprise architect @ consulting Service 
 * Oct.07 ~ April.10	Oracle & BEA / Delivery consultant
@@ -41,7 +46,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 
 ### Samsung Electronics (Chief Architect) - 2012 to Pres
 * Design and build all about Samsung Knox Global Scale Servers 
-(Enrollment, License validation, Log gathering, Web Portal, File provisioning, Application Wrapping) Service, APIs, Big Data analysis, Identity management system (SSO).
+(Enrollment, License validation, Log gathering, Web Portal, File provisioning, Application Wrapping) Service, APIs, Big Data analysis, Identity management system (SSO), Cloud Prinitng, Mobile device management etc.
 * Initial design and manage delivery of http://www.samsungknox.com web site
 * Coordinate cloud based MDM (http://emm.samsungknox.com)  and Marketplace (http://marketplace.samsungknox.com) project
 * Building Mobile device management service 
@@ -156,6 +161,7 @@ Presales and hands on delivery with partners.
 * 2001 Java swing programming in programming world
 
 # Speech
+* 2014 global scale high scale/high availibility system design - netmable (game company)
 * 2014 technical trend in Samsung Electronics internal server developer conference
 * 2014 node.js overview in Microsoft developer conference 
 * 2014 Distributed high scale system design in NIC (Korea gov)
