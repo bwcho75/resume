@@ -46,7 +46,7 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 
 ### Samsung Electronics (Chief Architect) - 2012 to Pres
 * Design and build all about Samsung Knox Global Scale Servers 
-(Enrollment, License validation, Log gathering, Web Portal, File provisioning, Application Wrapping) Service, APIs, Big Data analysis, Identity management system (SSO), Cloud Prinitng, Mobile device management etc.
+(Mobile device management, Mobile device configuration management, Enrollment, License validation, Log gathering, Web Portal, File provisioning, Application Wrapping) Service, APIs, Big Data analysis, Identity management system (SSO), Cloud Prinitng, Mobile device management etc.
 * Initial design and manage delivery of http://www.samsungknox.com web site
 * Coordinate cloud based MDM (http://emm.samsungknox.com)  and Marketplace (http://marketplace.samsungknox.com) project
 * Building Mobile device management service 
@@ -115,12 +115,16 @@ Presales and hands on delivery with partners.
 
 # Reference
 * Slide share - http://www.slideshare.net/Byungwook
-* Blog (Korean) - http://bcho.tistory.com 900K visitor, around 900 posting
+* Blog (Korean) - http://bcho.tistory.com 1.2M visitor, around 900 posting
 * Blog (English) - http://javamaster.wordpress.com
 * Git hub
 * Linked in
 * Reference people – it can be provided based on request
 
+# Book
+* Terry's server side : software development & testing (about agile,ALM and testing) - 2015.Jan/Freelec press
+* Terry's server side : Architecture design & performance (about high scale/distributed system design & performance engineering) - 2015.Feb/Freelec press
+* 
 # Community Activities
 * 2014 to Pres Master of Samsung Server Side group
 * 2013 to Pres Master of Facebook Server Side Architect Group (http://www.facebook.com/group/serverside) 
