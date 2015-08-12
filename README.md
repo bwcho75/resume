@@ -125,7 +125,7 @@ Presales and hands on delivery with partners.
 # Book
 * Terry's server side : software development & testing (about agile,ALM and testing) - 2015.Jan/Freelec press
 * Terry's server side : Architecture design & performance (about high scale/distributed system design & performance engineering) - 2015.Feb/Freelec press
-* 
+ 
 # Community Activities
 * 2014 to Pres Master of Samsung Server Side group
 * 2013 to Pres Master of Facebook Server Side Architect Group (http://www.facebook.com/group/serverside) 
