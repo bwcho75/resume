@@ -22,7 +22,8 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 * Hobby : Photo, Auto camping, Snowboarding, Blogging etc.
 
 # Career Summary
-* 12.Oct ~ Pres. 	Samsung Electronics / chief server architect of Samsung mobile devision B2B group
+* May.15 ~ Current Pikicast (http://www.pikicast.com) / CTO
+* Oct.12 ~ Apri.15 	Samsung Electronics / chief server architect of Samsung mobile devision B2B group
 * July.11 ~ July.12	Samsung Data System / program manager of personal Cloud Storage Service
 * April.10 ~ June.11	Microsoft / Cloud & enterprise architect @ consulting Service 
 * Oct.07 ~ April.10	Oracle & BEA / Delivery consultant
