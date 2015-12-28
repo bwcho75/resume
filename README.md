@@ -169,6 +169,7 @@ Presales and hands on delivery with partners.
 * 2001 Java swing programming in programming world
 
 # Speech
+* 2015 Mobile tech trend in web world conference
 * 2015 IT trend and journey of developer - NHN Next (for junior engineers)
 * 2015 IT trend & culture - GS Eshop (Executive leve)
 * 2014 global scale high scale/high availibility system design - netmable (game company)
