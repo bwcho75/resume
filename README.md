@@ -1,17 +1,14 @@
 URL : http://bwcho75.github.io/resume/
 
 * bwcho75@gmail.com 
-* +82 10 4198 8862
+* +82 10 7151 4623
 * Kyungki-do,Korea
 
-
-Terry is IT engineer who has been working on IT industry about 16 years.
-He experienced a lot of role like developer ,delivery consultant ,business strategy consultant ,pre-sales engineer, project/program manager, architect from an Start up , such a big IT company like Microsoft ,Oracle ,BEA ,Samsung and big service company Naver.com Korea.
-He has very wide view between business and technical engineering
-
+Terry is IT engineer who has been working on IT industry about 16 years. He experienced various role like CTO, developer ,delivery consultant ,business strategy consultant ,pre-sales engineer, project/program manager, architect from an Start up , such a big IT company like Microsoft ,Oracle ,BEA ,Samsung and big service company Naver.com Korea. He has very wide view between business and technical engineering
 He designed number of production Samsung Mobile global level backend system over Amazon and Microsoft cloud.
+Based on the experience, he can act as a technical leader and evangelist with deep understanding of business and technology. 
+He is also very famous in developer communities. He wrote around 40 technical article and interviews in Korea/International magazine, had more than 20 times speeches in technical conference and has been member of number of developer communities as a leader including site master of 130K member of java community site. This reputation helps Terry to bring IT people to be moved technologies. 
 
-He is also very famous in Developer communities. He wrote around 40 technical article and interviews in Korea/International magazine, had over than 20 times speeches in technical conference and has been member of # of developer communities as a leader including site master of 130K member of java community site.
 
 # Personal
 * Attitude : Passionate, Energetic, Leader, Make it happen, Continue to learn.
@@ -45,7 +42,13 @@ He is also very famous in Developer communities. He wrote around 40 technical ar
 
 # Project Summary 
 
-### Samsung Electronics (Chief Architect) - 2012 to Pres
+### Pikicat (CTO) – May.2015 to Pres
+*	Pikicast is mobile contents media service start up company which has 3M monthly active user and 1.5M daily active user.
+*	It provides service to Korea and Taiwan
+*	Terry set up the development team – hiring, training and set up process
+*	Terry fixed legacy system problem and enhanced the system to next generation of the system.  
+
+### Samsung Electronics (Chief Architect) - 2012 to May.2015
 * Design and build all about Samsung Knox Global Scale Servers 
 (Mobile device management, Mobile device configuration management, Enrollment, License validation, Log gathering, Web Portal, File provisioning, Application Wrapping) Service, APIs, Big Data analysis, Identity management system (SSO), Cloud Prinitng, Mobile device management etc.
 * Initial design and manage delivery of http://www.samsungknox.com web site
